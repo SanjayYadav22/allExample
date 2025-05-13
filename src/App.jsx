@@ -5,6 +5,7 @@ function App() {
     <div>
       <Portfolio />
       <h1>Hello</h1>
+      <p>Sanjay Yadav</p>
     </div>
   );
 }
